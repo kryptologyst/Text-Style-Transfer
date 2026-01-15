@@ -1,0 +1,135 @@
+{
+  "formal_to_casual": [
+    {
+      "formal": "It is with great pleasure that I write to inform you of our upcoming meeting.",
+      "casual": "I'm excited to let you know about our upcoming meeting!",
+      "category": "meeting_announcement"
+    },
+    {
+      "formal": "I would like to express my sincere gratitude for your assistance.",
+      "casual": "Thanks so much for your help!",
+      "category": "gratitude"
+    },
+    {
+      "formal": "Please be advised that the deadline has been extended.",
+      "casual": "Just wanted to let you know the deadline has been pushed back.",
+      "category": "deadline_update"
+    },
+    {
+      "formal": "We regret to inform you that your application has been rejected.",
+      "casual": "Sorry, but we can't accept your application this time.",
+      "category": "rejection"
+    },
+    {
+      "formal": "I am writing to request additional information regarding your proposal.",
+      "casual": "Could you send me more details about your proposal?",
+      "category": "information_request"
+    },
+    {
+      "formal": "We are pleased to announce the launch of our new product line.",
+      "casual": "Great news! We're launching our new product line.",
+      "category": "announcement"
+    },
+    {
+      "formal": "Please find attached the requested documents.",
+      "casual": "Here are the documents you asked for.",
+      "category": "document_sharing"
+    },
+    {
+      "formal": "I would appreciate your prompt response to this matter.",
+      "casual": "Could you get back to me soon on this?",
+      "category": "response_request"
+    },
+    {
+      "formal": "We have reviewed your submission and found it satisfactory.",
+      "casual": "We looked at your submission and it looks good!",
+      "category": "approval"
+    },
+    {
+      "formal": "Please do not hesitate to contact us if you have any questions.",
+      "casual": "Feel free to reach out if you have any questions.",
+      "category": "contact_encouragement"
+    }
+  ],
+  "casual_to_formal": [
+    {
+      "casual": "Hey, can you help me with this project?",
+      "formal": "I would appreciate your assistance with this project.",
+      "category": "help_request"
+    },
+    {
+      "casual": "Thanks for the awesome presentation!",
+      "formal": "Thank you for the excellent presentation.",
+      "category": "appreciation"
+    },
+    {
+      "casual": "Sorry, I can't make it to the meeting.",
+      "formal": "I regret to inform you that I will be unable to attend the meeting.",
+      "category": "meeting_decline"
+    },
+    {
+      "casual": "This looks great! When can we start?",
+      "formal": "This appears to be excellent. When would be an appropriate time to commence?",
+      "category": "project_start"
+    },
+    {
+      "casual": "No worries, we can figure it out later.",
+      "formal": "That is acceptable. We can address this matter at a later time.",
+      "category": "postponement"
+    }
+  ],
+  "sentiment_transfer": [
+    {
+      "negative": "This product is terrible and doesn't work at all.",
+      "positive": "This product has room for improvement and could benefit from some enhancements.",
+      "category": "product_review"
+    },
+    {
+      "negative": "I hate this weather, it's ruining my day.",
+      "positive": "The weather is challenging today, but I'm staying optimistic.",
+      "category": "weather_comment"
+    },
+    {
+      "negative": "This meeting was a complete waste of time.",
+      "positive": "This meeting provided some valuable insights and opportunities for discussion.",
+      "category": "meeting_feedback"
+    },
+    {
+      "negative": "The service here is awful and the staff is rude.",
+      "positive": "The service could be improved and the staff could be more welcoming.",
+      "category": "service_review"
+    },
+    {
+      "negative": "I'm so frustrated with this project.",
+      "positive": "This project presents some interesting challenges that I'm working through.",
+      "category": "project_feedback"
+    }
+  ],
+  "professional_to_friendly": [
+    {
+      "professional": "Please submit your report by the end of the week.",
+      "friendly": "Could you send me your report by Friday?",
+      "category": "deadline_request"
+    },
+    {
+      "professional": "We need to discuss the budget allocation for next quarter.",
+      "friendly": "Let's chat about how we want to spend our budget next quarter.",
+      "category": "budget_discussion"
+    },
+    {
+      "professional": "Your performance has been satisfactory this month.",
+      "friendly": "You've been doing great work this month!",
+      "category": "performance_review"
+    },
+    {
+      "professional": "Please review the attached proposal and provide feedback.",
+      "friendly": "Take a look at this proposal and let me know what you think.",
+      "category": "feedback_request"
+    },
+    {
+      "professional": "We are implementing new policies effective immediately.",
+      "friendly": "We're rolling out some new policies starting today.",
+      "category": "policy_announcement"
+    }
+  ]
+}
